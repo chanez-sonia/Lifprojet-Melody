@@ -4,6 +4,9 @@ RC1
 L’objectif de notre projet est de réaliser un page web pour la recommandation de musiques en utilisant le langage python pour la partie machine learning et du html/CSS/Javascript pour la partie web.
 On a commencé par analyser la base de données, on a étudié chaque donnée pour en faire des graphiques facilitant la recommandation.
 
+Remarque importante :
+Pour faire compiler le code il faut préalablement télécharger la base de données track_metadata.db (lien :http://millionsongdataset.com/sites/default/files/AdditionalFiles/track_metadata.db ) et dézipper/télécharger le fichier 10000.zip et changer les liens vers ces deux bases. 
+
 TACHES REALISEES :
 * Connection a la base de données.
 * Conversion de la base en csv.
